@@ -1,38 +1,52 @@
-# 2015
+# Weekly Lecture Topics
 
-##Lectures
+Week 1:
+- Lecture 1: Course Overview
 
-The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
+Week 2:
+- Lecture 2: Web scraping, data manipulation
+- Lecture 3: Exploratory Data Analysis
 
-##Lab 1
+Week 3:
+- Lecture 4: Pandas, SQL, and the Grammar of Data
+- Lecture 5: Statistical Models
 
-https://github.com/cs109/2015lab1
+Week 4:
+- Lecture 6: Story Telling and Effective Communication
+- Lecture 7: Bias and Regression
 
-The git lab can be read [here](https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
+Week 5:
+- Lecture 8: More Regression
+- Lecture 9: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS
 
-##HW 0
+Week 6:
+- Lecture 10: SVM, Evaluation
+- Lecture 11: Decision Trees and Random Forests
 
-You can read it [here](https://github.com/cs109/2015lab1/blob/master/hw0.ipynb).
+Week 7:
+- Lecture 12: Ensemble Methods
+- Lecture 13: Best Practices
 
-The repository is at:
+Week 8:
+- Lecture 14: Best Practices, Recommendations and MapReduce.
+- Lecture 15: MapReduce Combiners and Spark
 
-https://github.com/cs109-students/2015hw
+Week 9:
+- Lecture 16: Bayes Theorem and Bayesian Methods
+- Lecture 17: Bayesian Methods Continued
 
-Switch to branch hw0.
+Week 10:
+- Lecture 18: Bayesian Methods Continued, Text Data
+- Lecture BONUS: Interactive Visualization
 
-You will not be able to access the above link if you have not been added to the cs109-students github organization. For this to happen, you must have submitted the survey, and it will take a bit of time for us to get to your github id after that.
+Week 11:
+- Lecture 19: Clustering
+- Lecture 20: Effective Presentations
 
-For this reason, we have included HW0 in the lab link above.
+Week 12:
+- Lecture 21: Experimental Design
+- Lecture 22: Deep Networks
 
-At that point, homework repositories will be created for you.
-
-##Initial Workflow
-
-- read hw 0, and do the survey and installations
-- then read the git lab in lab 1 linked from within.
-- read the git flows at the end of both these documents
-- now clone the lab repository. (workflow is in the README and at the end of hw 0)
-- Run the hw0.ipynb file, installing additional python libraries
-- run all the lab notebooks, including the git notebook, to get familiar with python, pandas and git
-
-By this point you should have a cs109-students/githubuserid-2015hw repository, - which you should clone, and carry out the homework flow on. (homework flow is in the README for https://github.com/cs109-students/2015hw and at the end of hw0.ipynb (https://github.com/cs109/2015lab1/blob/master/hw0.ipynb) and (https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
+Week 13:
+- Lecture 23: Guest Lecture: Building Data Science
+- Lecture 24: Wrapup, and where to go from here
