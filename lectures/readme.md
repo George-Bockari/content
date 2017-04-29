@@ -32,7 +32,7 @@ Week 8:
 - Lecture 15: MapReduce Combiners and Spark
 
 Week 9:
-- Lecture 16: Bayes Theorem and Bayesian Methods
+- [Lecture 16](https://github.com/George-Bockari/content/blob/master/lectures/16/16-BayesianMethods.pdf): Bayes Theorem and Bayesian Methods
 - Lecture 17: Bayesian Methods Continued
 
 Week 10:
